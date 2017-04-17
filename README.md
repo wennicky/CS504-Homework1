@@ -1,6 +1,5 @@
 # CS504-Homework1
-
-# Running-Information-Analysis-Service
+Running-Information-Analysis-Service
 
 This is a Spring Boot Project.
 
